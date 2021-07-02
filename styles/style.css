@@ -144,8 +144,7 @@ form:focus-within input::placeholder {
 }
 
 .title {
-	font-weight: bold;
-	font-style: italic;
+	font-family: 'Playfair Display', serif;
 }
 
 .image {
