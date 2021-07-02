@@ -145,6 +145,7 @@ form:focus-within input::placeholder {
 
 .title {
 	font-family: 'Playfair Display', serif;
+	letter-spacing: 3px
 }
 
 .image {
