@@ -42,8 +42,8 @@
 
 	body {
 		background-color: var(--bg);
-		/*font-family: 'Space Mono', monospace;*/
-		font-family: 'Inter', sans-serif;
+		font-family: 'Space Mono', monospace;
+		/*font-family: 'Inter', sans-serif;*/
 		font-size: 1em;
 		color: var(--yellow);
 	}
