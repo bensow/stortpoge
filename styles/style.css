@@ -15,7 +15,7 @@
 
 	--search-bg: rgba(255, 255, 255, 0);
 	}*/
-	/* Neon colours*/
+	/* Neon colours
 	:root {
 		--red: #ff6600;
 		--white: #c4e5ea;
@@ -24,9 +24,20 @@
 		--fg: #181b28;
 
 		--search-bg: rgba(255, 255, 255, 0);
+	}*/
+
+opera house colours*
+:root {
+	--red: #bb5e16;
+	--white: #afdfe8;
+	--yellow: #ffb246;
+
+	--bg: #0c0d12;
+	--fg: #12151c;
+
+	--search-bg: rgba(255, 255, 255, 0);
 	}
-
-
+	
 /*Kurnell colours*
 :root {
 	--red: #e3762f;
