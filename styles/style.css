@@ -145,9 +145,8 @@ form:focus-within input::placeholder {
 }
 
 .title {
-	font-family: 'Space Mono', monospace;
-	/*font-family: 'Playfair Display', serif;*/
-	letter-spacing: 3px
+	font-weight: bold;
+	font-style: italic;
 }
 
 .image {
