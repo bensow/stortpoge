@@ -28,12 +28,12 @@
 
 /*opera house colours*/
 :root {
-	--red: #bb5e16;
+	--red: #ff6600;
 	--white: #c4e5ea;
-	--yellow: #ffb246;
+	--yellow: #ffcc00;
 
-	--bg: #060812;
-	--fg: #181b28;
+	--bg: #0C0D12;
+	--fg: #12151C;
 
 	--search-bg: rgba(255, 255, 255, 0);
 	}
