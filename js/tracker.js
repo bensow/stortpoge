@@ -1,5 +1,5 @@
-var symbolList = ["MQG.AX", "^GSPC", "^AXJO"]
-var nameList = ["MQG.AX", "S&P500", "ASX200"]
+var symbolList = ["^GSPC", "^AXJO","MQG.AX"]
+var nameList = ["S&P500", "ASX200","MQG.AX"]
 let symLen = symbolList.length
 
 const urlList = [];
@@ -30,7 +30,7 @@ async function getMarketPrice() {
         dayChange[i] = num + "%"
 
         console.log(dayChange)
-        text = text + nameList[i] + " " + currencyList[i] + "$" + priceList[i] + " (" + dayChange[i] + ")" + " | "
+        text = text + nameList[i] + " " + "$" + priceList[i] + " (" + dayChange[i] + ")" + " | "
     }
     text = text.substring(0, text.length - 3);
     document.getElementById('crypto').innerHTML = text
